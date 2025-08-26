@@ -3,7 +3,7 @@ Me chamo **André Fonseca**, apaixonado por **tecnologia, eletrônica e programa
 Atualmente estou cursando **Eletrônica Automotiva na Fatec Santo André** e estudando **progrmação em baixo nível com raspberry pi pico usando linguagem C** por conta própria.  
 
 Também tenho experiência prática com:
-- 🔧 Raspberry Pi Pico + C (SPI, DMA, LVGL, drivers gráficos, sensores, Kernel)  
+- 🔧 Raspberry Pi Pico + C (SPI, LVGL, drivers gráficos, sensores, Kernel)  
 - 📟 Desenvolvimento de interfaces gráficas (LVGL, displays ILI9341, ssd1306)  
 - ⚡ Eletrônica e sistemas embarcados  
 - 🌐 HTML, CSS, JavaScript (projetos de sites e lojas virtuais simples)  
