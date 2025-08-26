@@ -46,7 +46,7 @@ Também tenho experiência prática com:
 
 ### 📫 Como me encontrar
 - ✉️ Email: **fonsecafontesandre@gmail.com**  
-- 💼 LinkedIn: www.linkedin.com/in/andré-fonseca-fontes-7825b3351 
+- 💼 LinkedIn: <a src = "www.linkedin.com/in/andré-fonseca-fontes-7825b3351" target = "blank">Meu LinkedIn</a>
 - 🌐 Portfólio: *em breve*  
 
 ---
