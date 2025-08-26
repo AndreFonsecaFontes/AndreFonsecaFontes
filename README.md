@@ -1,21 +1,18 @@
-## Hi there 👋
-
 ### 🚀 Sobre mim  
-Sou **André Fonseca**, apaixonado por **tecnologia, eletrônica automotiva e programação**.  
-Atualmente estou cursando **Eletrônica Automotiva na Fatec Santo André** e estudando **desenvolvimento web (front-end e back-end)** por conta própria.  
+Me chamo **André Fonseca**, apaixonado por **tecnologia, eletrônica automotiva e programação**.  
+Atualmente estou cursando **Eletrônica Automotiva na Fatec Santo André** e estudando **progrmação em baixo nível com raspberry pi pico usando linguagem C** por conta própria.  
 
 Também tenho experiência prática com:
-- 🔧 Raspberry Pi Pico + C (SPI, DMA, LVGL, drivers gráficos, sensores)  
-- 📟 Desenvolvimento de interfaces gráficas (LVGL, displays ILI9341)  
+- 🔧 Raspberry Pi Pico + C (SPI, DMA, LVGL, drivers gráficos, sensores, Kernel)  
+- 📟 Desenvolvimento de interfaces gráficas (LVGL, displays ILI9341, ssd1306)  
 - ⚡ Eletrônica e sistemas embarcados  
-- 🌐 HTML, CSS, JavaScript (projetos de sites e lojas virtuais)  
+- 🌐 HTML, CSS, JavaScript (projetos de sites e lojas virtuais simples)  
 
 ---
 
 ### 📚 Estou aprendendo atualmente:
-- Desenvolvimento de **clusters automotivos digitais** com LVGL  
+- Desenvolvimento de **clusters automotivos digitais** com LVGL
 - **Gestão de projetos e sistemas**  
-- Frameworks modernos para **front-end** e **back-end**  
 
 ---
 
@@ -28,20 +25,21 @@ Também tenho experiência prática com:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub logo" />
+  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg](http://camo.githubusercontent.com/14c8d3795dcab2820d0df0f591cea91a4e5996bc2b9340ff82dace3e201cda99/68747470733a2f2f6c76676c2e696f2f6769746875622d6173736574732f6c6f676f2d636f6c6f7265642e706e67)" height="40" alt="LVGL logo" />
 </div>
 
 ---
 
 ### 📌 Projetos em destaque
 - 🚗 **Cluster Automotivo Digital** – Interface em LVGL no Raspberry Pi Pico com velocímetro, combustível e sensores  
-- 🛒 **Loja Virtual (HTML, CSS, JS)** – Carrinho de compras dinâmico  
-- 📟 **Drivers ILI9341 personalizados** – Integração com LVGL v9 e DMA  
+- 🛒 **Loja Virtual (HTML, CSS, JS)** – Carrinho de compras dinâmico simples 
+- 📟 **Drivers ILI9341 personalizados** – Integração com LVGL v9
 
 ---
 
 ### 📫 Como me encontrar
-- ✉️ Email: **seuemail@example.com**  
-- 💼 LinkedIn: [linkedin.com/in/seulink](https://linkedin.com/in/seulink)  
+- ✉️ Email: **fonsecafontesandre@gmail.com**  
+- 💼 LinkedIn: www.linkedin.com/in/andré-fonseca-fontes-7825b3351 
 - 🌐 Portfólio: *em breve*  
 
 ---
