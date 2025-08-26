@@ -51,4 +51,4 @@ Também tenho experiência prática com:
 
 ---
 
-⚡ **Curiosidade:** já fiz intercâmbio no **Canadá** para aprimorar meu inglês e expandir meus horizontes em tecnologia.  
+⚡ **Curiosidade:** já fiz intercâmbio no **Canadá** para aprimorar meu inglês e, assim, expandir meus horizontes em tecnologia.  
