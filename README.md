@@ -26,6 +26,7 @@ Também tenho experiência prática com:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub logo" />
   <img src="http://camo.githubusercontent.com/14c8d3795dcab2820d0df0f591cea91a4e5996bc2b9340ff82dace3e201cda99/68747470733a2f2f6c76676c2e696f2f6769746875622d6173736574732f6c6f676f2d636f6c6f7265642e706e67" height="40" alt="LVGL logo" />
+  <img src="https://avatars.githubusercontent.com/u/1294177?s=48&v=4" height="40" alt="Pico logo" />
 </div>
 
 ---
