@@ -1,5 +1,5 @@
 ### 🚀 Sobre mim  
-Me chamo **André Fonseca**, apaixonado por **tecnologia, eletrônica automotiva e programação**.  
+Me chamo **André Fonseca**, apaixonado por **tecnologia, eletrônica e programação**.  
 Atualmente estou cursando **Eletrônica Automotiva na Fatec Santo André** e estudando **progrmação em baixo nível com raspberry pi pico usando linguagem C** por conta própria.  
 
 Também tenho experiência prática com:
@@ -36,6 +36,12 @@ Também tenho experiência prática com:
 - 🛒 **Loja Virtual (HTML, CSS, JS)** – Carrinho de compras dinâmico simples 
 - 📟 **Drivers ILI9341 personalizados** – Integração com LVGL v9
 
+---
+
+### 🧠 Pretensões futuras 
+- Aprender outras linguagens voltadas para o **back-end**
+- **Inteligência Artificial (IA)** – estudo de modelos e aplicações para programá-los
+  
 ---
 
 ### 📫 Como me encontrar
